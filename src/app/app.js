@@ -1,1 +1,1 @@
-alert('welcome to webpack boilerplate')
+console.log('here is app.js')
